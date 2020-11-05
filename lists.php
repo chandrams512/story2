@@ -466,7 +466,7 @@ function gosearch(limit, alpha, option, offset) {
 
 #filterDiv {
     width: 70%;
-    display: block
+    display: block;
 }
 
 #bannerTop {
